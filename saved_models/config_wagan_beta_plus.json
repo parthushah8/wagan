@@ -1,0 +1,1 @@
+{"name": "wagan_beta_plus", "batch_size": 128, "total_epochs": 30, "cutoff_epoch": 20, "early_learning_rate": 0.001, "late_learning_rate": 0.0001}
